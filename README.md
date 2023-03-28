@@ -9,9 +9,8 @@ Import numpy module to use built-in functions
 Get lists from the linear equations and assign it to np.array
 ### Step 3: 
 Substitute the values in the distance formula 
-![formula](https://user-images.githubusercontent.com/119475721/228170236-4a209ae8-7483-4353-ad5e-d3a00b63ab3a.png)
 
-
+![formula](https://user-images.githubusercontent.com/119475721/228170464-62332e47-ab96-487e-a74b-9da312e50bcc.png)
 
 ### Step 4: 
 Print the result.
