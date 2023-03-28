@@ -8,7 +8,11 @@ Import numpy module to use built-in functions
 ### Step 2: 
 Get lists from the linear equations and assign it to np.array
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula 
+![formula](https://user-images.githubusercontent.com/119475721/228170236-4a209ae8-7483-4353-ad5e-d3a00b63ab3a.png)
+
+
+
 ### Step 4: 
 Print the result.
 ### Step 5: 
