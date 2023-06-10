@@ -3,19 +3,11 @@
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
-### Step 1: 
-Import numpy module to use built-in functions
-### Step 2: 
-Get lists from the linear equations and assign it to np.array
-### Step 3: 
-Substitute the values in the distance formula 
-
-![formula](https://user-images.githubusercontent.com/119475721/228170464-62332e47-ab96-487e-a74b-9da312e50bcc.png)
-
-### Step 4: 
-Print the result.
-### Step 5: 
-End the program.
+### Step 1: Import numpy module to use built-in functions
+### Step 2: Get lists from the linear equations and assign it to np.array
+### Step 3: Substitute the values in the distance formula ![formula](https://user-images.githubusercontent.com/119475721/228170464-62332e47-ab96-487e-a74b-9da312e50bcc.png)
+### Step 4: Print the result.
+### Step 5: End the program.
 
 
 ### PROGRAM:
